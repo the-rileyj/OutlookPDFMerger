@@ -1,0 +1,5 @@
+flask
+requests
+gunicorn
+PyPDF2==1.26.0
+requests-oauthlib==1.2.0
